@@ -1,0 +1,26 @@
+{
+   "OpenTok":{
+      "apiKey": "45960302",
+      "apiSecret": "03604b0f197e07b8cdefd8fe1d65cfaafa14d79b"
+   },
+   "Firebase":{
+      "dataUrl":"https://livechatter-4f0fd.firebaseio.com",
+      "authSecret":"708023222245"
+   },
+   "Archiving":{
+      "enabled":true,
+      "archiveManager":{
+         "enabled":true
+      }
+   },
+   "Feedback":{
+      "enabled":false
+   },
+   "Screensharing":{
+      "enabled":false,
+      "chromeExtensionId":null,
+      "annotations":{
+         "enabled":true
+      }
+   }
+}
